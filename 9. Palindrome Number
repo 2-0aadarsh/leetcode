@@ -1,0 +1,15 @@
+class Solution {
+public:
+    bool isPalindrome(int x) {
+        if(x<0){
+            return false;
+        }
+        long count = 0;
+        int duplicate = x;
+        while(x != 0) {
+            count = count*10 + x%10;
+            x = x/10;
+        }
+        return(duplicate == count);
+    }
+};
