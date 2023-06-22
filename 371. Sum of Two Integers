@@ -1,0 +1,21 @@
+class Solution {
+public:
+    int getSum(int a, int b) {
+        int res = 0, rem = 0, tot, ba, bb, bit = 1;
+        
+        while (true) {
+        
+            ba = bool(a & bit), bb = bool(b & bit);
+        
+            tot = (ba & bb & rem) ? 3 : (ba ^ bb ^ rem) ? 1 : (ba | bb | rem) ? 2 : 0;
+        
+            rem = tot >> 1;
+        
+            if (tot & 1) res |= bit;
+
+            if (bit == INT_MIN) return res;
+            bit <<= 1;
+        }
+        return -1;
+    }    
+};
