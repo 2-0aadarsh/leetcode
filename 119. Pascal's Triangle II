@@ -1,0 +1,36 @@
+class Solution {
+    private:
+    vector<int> check(vector<int> ans){
+        vector<int> ans1={1};
+    
+        for(int i=0;i<ans.size()-1;i++){
+            ans1.push_back(ans[i]+ans[i+1]);
+        }
+    
+        ans1.push_back(1);
+        return ans1;
+}
+
+public:
+    vector<int> getRow(int rowIndex) {
+        if(rowIndex==0){
+            vector<int> p={1};
+            return p;
+        }
+        if(rowIndex==1){
+            vector<int> p={1,1};
+            return p;
+        }
+        vector<int> ans={1,1};
+        vector<int> ans2;
+
+        while(rowIndex>1){
+            ans2=check(ans);
+            ans.clear();
+            ans=ans2;
+            rowIndex--;
+        }
+
+    return ans2;
+    }
+};
