@@ -2,7 +2,7 @@ class Solution {
 public:
     map<string,int>mp;
         
-        void stringstreeam(string s)
+        void stringstreeam(string& s)
         {
             stringstream ss(s);
             string word;
