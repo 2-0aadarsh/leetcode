@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0920-uncommon-words-from-two-sentences](https://github.com/2-0aadarsh/leetcode/tree/master/0920-uncommon-words-from-two-sentences) |
+| [0014-longest-common-prefix](https://github.com/2-0aadarsh/leetcode/tree/master/0014-longest-common-prefix) |
 ## Counting
 |  |
 | ------- |
@@ -51,4 +52,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2271-rearrange-array-elements-by-sign](https://github.com/2-0aadarsh/leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/2-0aadarsh/leetcode/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
