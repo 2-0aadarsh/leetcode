@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/2-0aadarsh/leetcode/tree/master/0042-trapping-rain-water) |
 | [0189-rotate-array](https://github.com/2-0aadarsh/leetcode/tree/master/0189-rotate-array) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/2-0aadarsh/leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
+| [0926-find-and-replace-pattern](https://github.com/2-0aadarsh/leetcode/tree/master/0926-find-and-replace-pattern) |
 ## Two Pointers
 |  |
 | ------- |
@@ -36,12 +37,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0920-uncommon-words-from-two-sentences](https://github.com/2-0aadarsh/leetcode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0205-isomorphic-strings](https://github.com/2-0aadarsh/leetcode/tree/master/0205-isomorphic-strings) |
+| [0926-find-and-replace-pattern](https://github.com/2-0aadarsh/leetcode/tree/master/0926-find-and-replace-pattern) |
 ## String
 |  |
 | ------- |
 | [0920-uncommon-words-from-two-sentences](https://github.com/2-0aadarsh/leetcode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0014-longest-common-prefix](https://github.com/2-0aadarsh/leetcode/tree/master/0014-longest-common-prefix) |
 | [0205-isomorphic-strings](https://github.com/2-0aadarsh/leetcode/tree/master/0205-isomorphic-strings) |
+| [0926-find-and-replace-pattern](https://github.com/2-0aadarsh/leetcode/tree/master/0926-find-and-replace-pattern) |
 ## Counting
 |  |
 | ------- |
