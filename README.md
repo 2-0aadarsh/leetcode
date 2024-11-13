@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0920-uncommon-words-from-two-sentences](https://github.com/2-0aadarsh/leetcode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0205-isomorphic-strings](https://github.com/2-0aadarsh/leetcode/tree/master/0205-isomorphic-strings) |
 | [0926-find-and-replace-pattern](https://github.com/2-0aadarsh/leetcode/tree/master/0926-find-and-replace-pattern) |
+| [0290-word-pattern](https://github.com/2-0aadarsh/leetcode/tree/master/0290-word-pattern) |
 ## String
 |  |
 | ------- |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/2-0aadarsh/leetcode/tree/master/0014-longest-common-prefix) |
 | [0205-isomorphic-strings](https://github.com/2-0aadarsh/leetcode/tree/master/0205-isomorphic-strings) |
 | [0926-find-and-replace-pattern](https://github.com/2-0aadarsh/leetcode/tree/master/0926-find-and-replace-pattern) |
+| [0290-word-pattern](https://github.com/2-0aadarsh/leetcode/tree/master/0290-word-pattern) |
 ## Counting
 |  |
 | ------- |
