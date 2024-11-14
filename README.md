@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/2-0aadarsh/leetcode/tree/master/0189-rotate-array) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/2-0aadarsh/leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [0926-find-and-replace-pattern](https://github.com/2-0aadarsh/leetcode/tree/master/0926-find-and-replace-pattern) |
+| [0169-majority-element](https://github.com/2-0aadarsh/leetcode/tree/master/0169-majority-element) |
 ## Two Pointers
 |  |
 | ------- |
@@ -20,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/2-0aadarsh/leetcode/tree/master/0015-3sum) |
+| [0169-majority-element](https://github.com/2-0aadarsh/leetcode/tree/master/0169-majority-element) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -39,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/2-0aadarsh/leetcode/tree/master/0205-isomorphic-strings) |
 | [0926-find-and-replace-pattern](https://github.com/2-0aadarsh/leetcode/tree/master/0926-find-and-replace-pattern) |
 | [0290-word-pattern](https://github.com/2-0aadarsh/leetcode/tree/master/0290-word-pattern) |
+| [0169-majority-element](https://github.com/2-0aadarsh/leetcode/tree/master/0169-majority-element) |
 ## String
 |  |
 | ------- |
@@ -51,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0920-uncommon-words-from-two-sentences](https://github.com/2-0aadarsh/leetcode/tree/master/0920-uncommon-words-from-two-sentences) |
+| [0169-majority-element](https://github.com/2-0aadarsh/leetcode/tree/master/0169-majority-element) |
 ## Math
 |  |
 | ------- |
@@ -63,4 +67,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/2-0aadarsh/leetcode/tree/master/0014-longest-common-prefix) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/2-0aadarsh/leetcode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
