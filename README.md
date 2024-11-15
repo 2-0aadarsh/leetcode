@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2271-rearrange-array-elements-by-sign](https://github.com/2-0aadarsh/leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [0926-find-and-replace-pattern](https://github.com/2-0aadarsh/leetcode/tree/master/0926-find-and-replace-pattern) |
 | [0169-majority-element](https://github.com/2-0aadarsh/leetcode/tree/master/0169-majority-element) |
+| [1603-running-sum-of-1d-array](https://github.com/2-0aadarsh/leetcode/tree/master/1603-running-sum-of-1d-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -71,4 +72,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/2-0aadarsh/leetcode/tree/master/0169-majority-element) |
+## Prefix Sum
+|  |
+| ------- |
+| [1603-running-sum-of-1d-array](https://github.com/2-0aadarsh/leetcode/tree/master/1603-running-sum-of-1d-array) |
 <!---LeetCode Topics End-->
