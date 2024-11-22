@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/2-0aadarsh/leetcode/tree/master/0169-majority-element) |
 | [1603-running-sum-of-1d-array](https://github.com/2-0aadarsh/leetcode/tree/master/1603-running-sum-of-1d-array) |
 | [0088-merge-sorted-array](https://github.com/2-0aadarsh/leetcode/tree/master/0088-merge-sorted-array) |
+| [0031-next-permutation](https://github.com/2-0aadarsh/leetcode/tree/master/0031-next-permutation) |
 ## Two Pointers
 |  |
 | ------- |
@@ -20,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/2-0aadarsh/leetcode/tree/master/0189-rotate-array) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/2-0aadarsh/leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [0088-merge-sorted-array](https://github.com/2-0aadarsh/leetcode/tree/master/0088-merge-sorted-array) |
+| [0031-next-permutation](https://github.com/2-0aadarsh/leetcode/tree/master/0031-next-permutation) |
 ## Sorting
 |  |
 | ------- |
